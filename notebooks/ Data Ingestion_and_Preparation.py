@@ -11,7 +11,7 @@
 
 from pyspark.sql import SparkSession
 
-spark = SparkSession.builder.appName(" Data Ingestion_and_Preparation").getOrCreate()
+spark = SparkSession.builder.appName("Data Ingestion_and_Preparation").getOrCreate()
 
 # COMMAND ----------
 
