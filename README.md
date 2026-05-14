@@ -8,7 +8,7 @@ The project processes and analyzes over **958 million taxi trips** to uncover mo
 
 ## 📊 Dashboard Preview
 
-![NYC Taxi Dashboard](./assets/NYC_taxt__analytics_dashboard)
+![NYC Taxi Dashboard](assets/NYC_taxt__analytics_dashboard)
 
 ---
 
