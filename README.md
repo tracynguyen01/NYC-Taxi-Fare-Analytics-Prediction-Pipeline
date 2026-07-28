@@ -151,5 +151,5 @@ XGBoost achieved the best performance by capturing complex non-linear relationsh
 ---
 ## 👤 Author
 
-**Ngoc Bao Tran Nguyen**
-Master of Data Science and Innovation
+**Ngoc Bao Tran (Tracy) Nguyen**
+
